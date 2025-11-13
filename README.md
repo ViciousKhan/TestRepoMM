@@ -1,2 +1,2 @@
 # TestRepoMM
-Class project for GIT
+Class project for GiT
